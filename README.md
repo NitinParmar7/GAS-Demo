@@ -1,6 +1,6 @@
 # AntiMatterTest
 
-This demo I had created for one of my job interview during 2020
+This demo I had created for GAS during 2020
 It has ability system and inventory system demo
 
 Collect ability via moving over them
